@@ -1,10 +1,6 @@
-hi
-hello
-Start of program
-
-Line1
-Line2
-Line3
-Line4
-
-End of program
+#include<stdio.h>
+void main()
+{
+    int a=4,b=7;
+    printf("Addition is : %d",a+b);
+}
